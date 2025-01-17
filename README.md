@@ -4,8 +4,7 @@
     <p>
         Hi! I am a first year Data Science Master's student at the University of California, San Diego. 
 		I have developed strong technical, communication, organizational, and project management skills through diverse research and professional experiences. Leveraging my multicultural background, I am passionate about making Machine Learning and Artificial Intelligence technologies accessible to communities worldwide.
-    </p>
-    <p>
+		<br>
     	In my free time, I like to knit and crochet🧶 I find the process of making garments very stimulating for my brain!
     </p>
 </div>
