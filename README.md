@@ -1,3 +1,10 @@
+---
+layout: default
+title: My GitHub Page
+toc: true
+toc_label: "Table of Contents"
+toc_levels: "2"
+---
 ## about me
 <div style="display: flex; align-items: center;">
     <img src="assets/mypic.png" width="200" style="margin-right: 20px;" alt="My Picture"/>
@@ -8,6 +15,7 @@
     	In my free time, I like to knit and crochet🧶 I find the process of making garments very stimulating for my brain!
     </p>
 </div>
+[GitHub](https://github.com/mf02511) | [LinkedIn](https://www.linkedin.com/in/mizuho-fukuda-4770a3231/) | Email: mfukuda@ucsd.edu
 
 ## education
 **M.S. Data Science, UC San Diego**	*2024 - 2026(expected)*
