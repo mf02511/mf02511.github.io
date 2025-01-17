@@ -1,4 +1,3 @@
-## about me
 <div style="display: flex; align-items: center; gap: 20px;">
     <!-- Profile Image and Links Section -->
     <div style="flex: 0 0 auto; text-align: center; max-width: 200px;">
@@ -20,9 +19,9 @@
     </div>
 </div>
 
+<br>
 
-
-## education
+## education👩🏻‍🎓
 **M.S. Data Science, UC San Diego** *(2024 - 2026(expected))*
 - GPA: 3.8
 
@@ -30,7 +29,9 @@
 - GPA: 3.96 (Magna Cum Laude)
 - Minor in Data Science
 
-## experience
+<br>
+
+## experience👩🏻‍💻
 **Teaching Assistant** *(September 2024 - Present)*
 
 **Research Assistant** *(June 2023 - Present)*
